@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pramodinchal.github.io/pet-gallery/",
+  "homepage": "https://pramodinchal.github.io/Pet-Gallery/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
